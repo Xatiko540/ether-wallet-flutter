@@ -45,7 +45,7 @@ $ flutter test
 
 ### Wallet balance
 
-For those who don't want to play with smart contracts yet, you can claim some test tokens by following links below, or [check this repo](https://github.com/Xatiko540/ether-wallet-contract) to understand how to deploy your own contract.
+For those who don't want to play with smart contracts yet, you can claim some test tokens by following links below, or [check this repo](https://github.com/allanclempe/ether-wallet-contract) to understand how to deploy your own contract.
 
 **_Transfer test TOKENS to your wallet:_**
 
