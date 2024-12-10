@@ -63,7 +63,7 @@ To process transactions on the network, you will also need coins to pay the tran
 
 ### The smart contract
 
-Link for the smart contract used for this project [https://github.com/allanclempe/ether-wallet-contract](https://github.com/Xatiko540/ether-wallet-contract)
+Link for the smart contract used for this project [https://github.com/Xatiko540/ether-wallet-contract](https://github.com/Xatiko540/ether-wallet-contract)
 
 
 
