@@ -8,7 +8,7 @@ A digital wallet app developed in dart and flutter. The idea is to help develope
 - [QR code scanner](https://github.com/juliuscanute/qr_code_scanner) to scan addresses
 - [Web3Dart](https://github.com/simolus3/web3dart) to interact with Ethereum blockchain
 - [Flutter hooks](https://github.com/rrousselGit/flutter_hooks) to manage widget life-cycle.
-- [Solidity](https://github.com/Xatiko540/ether-wallet-contract) smart contract
+- [Solidity](https://github.com/allanclempe/ether-wallet-contract) smart contract
 
 |                               Wallet                               |                              Change network                              |                               Transfer tokens                               |
 | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
@@ -63,7 +63,7 @@ To process transactions on the network, you will also need coins to pay the tran
 
 ### The smart contract
 
-Link for the smart contract used for this project [https://github.com/Xatiko540/ether-wallet-contract](https://github.com/Xatiko540/ether-wallet-contract)
+Link for the smart contract used for this project [https://github.com/Xatiko540/ether-wallet-contract](https://github.com/allanclempe/ether-wallet-contract)
 
 
 
